@@ -16,7 +16,7 @@ CLOUD_PROVIDER = "gcp"
 
 # GCP constants
 GCP_CONN_ID = "google_cloud_default"
-GCS_BUCKET_NAME = "wizeline_project_2022_06"
+GCS_BUCKET_NAME = "decp/raw-data"
 GCS_KEY_NAME = "movie_review.csv "
 
 # Postgres constants
